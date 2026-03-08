@@ -49,7 +49,7 @@
                  hyperindex = true, hyperfigures]{hyperref}
     \DeclareGraphicsExtensions{.png, .jpg, .jpeg, .pdf}
     \usepackage[pdftex]{graphicx}
-    \graphicspath{{0_frontmatter/figures/}}
+    \graphicspath{{frontmatter/figures/}}
     \pdfcompresslevel=9
 \else
     \usepackage[ dvips, bookmarks, bookmarksopen = true, bookmarksnumbered = true,
@@ -59,7 +59,7 @@
                  hyperindex = true, hyperfigures]{hyperref}
     \DeclareGraphicsExtensions{.eps, .ps}
     \usepackage{graphicx}
-    \graphicspath{{0_frontmatter/figures/}}
+    \graphicspath{{frontmatter/figures/}}
 \fi
 
 % Page layout
