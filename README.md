@@ -61,3 +61,11 @@ Edit:
 - Keep your logo in:
   - `thesis/frontmatter/figures/logo.png`
   - `slides/figures/umatlogo.png`
+
+## Credits
+
+This template is adapted from the work of **Enock Seth Nyamador**:
+
+[https://github.com/enockseth/umat](https://github.com/enockseth/umat)
+
+
