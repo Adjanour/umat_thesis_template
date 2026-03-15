@@ -1,0 +1,9 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=827846 to learn about workspace recommendations.
+    // Extension identifier format: publisher.extension
+    "recommendations": [
+        "james-yu.latex-workshop",
+        "latexindent.latexindent",
+        "valentjn.vscode-ltex"
+    ]
+}
